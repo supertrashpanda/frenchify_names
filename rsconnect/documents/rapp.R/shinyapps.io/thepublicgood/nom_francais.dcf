@@ -1,0 +1,13 @@
+name: nom_francais
+title: nom_francais
+username:
+account: thepublicgood
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7990908
+bundleId: 6709211
+url: https://thepublicgood.shinyapps.io/nom_francais/
+when: 1673152356.01251
+lastSyncTime: 1673152356.01253
+asMultiple: FALSE
+asStatic: FALSE
