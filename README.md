@@ -1,5 +1,7 @@
 # frenchify_names
-The dashboard is published at [here](https://thepublicgood.shinyapps.io/nom_francais/)
+The dashboard is published at [here](https://thepublicgood.shinyapps.io/nom_francais/).
+
+
 For any input Chinese name, the application generates the french-ish transcription that's based on French orthography to mimic the Mandarin Chinese pronunciation of it. 
 
 例：
