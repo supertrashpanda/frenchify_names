@@ -1,10 +1,13 @@
-#library(shiny)
+library(shiny)
 library(tidyverse)
 library(shinyjs)
-library(reticulate)
+#library(reticulate)
+#conda_install("r-reticulate", "pandas")
+#conda_install("r-reticulate", "pypinyin")
+reticulate::py_install(c('pandas', 'pypinyin'))
+reticulate::source_python("code.py")
 
-source_python("code.py")
-
+#reticulate::py_config()
 ui <- basicPage(
                  
                           fluidPage(
