@@ -5,9 +5,9 @@ account: thepublicgood
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 7990908
-bundleId: 6709211
+bundleId: 6714645
 url: https://thepublicgood.shinyapps.io/nom_francais/
-when: 1673152356.01251
-lastSyncTime: 1673152356.01253
+when: 1673296320.30699
+lastSyncTime: 1673296320.307
 asMultiple: FALSE
 asStatic: FALSE
